@@ -70,9 +70,9 @@ public class JavaExportDoc {
 		dataMap.put("yjmonth", "04");
 		dataMap.put("yjday", "01");
 		dataMap.put("yjhour", "12");
-		dataMap.put("cpmc", "2017");
-		dataMap.put("ggxh", "2017");
-		dataMap.put("zxlb", "2017");
+		dataMap.put("cpmc", "动车组");
+		dataMap.put("ggxh", "CRH2A-0201");
+		dataMap.put("zxlb", "五级修");
 
 		
 
